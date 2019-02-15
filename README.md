@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Start a new journey on GitHub!
+
